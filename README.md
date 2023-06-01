@@ -10,12 +10,5 @@ No I do not do code poetry (in case you didn't know; yes it exists), but I will 
 * Java
 * Python
 * Node.js
-* Bash, Zsh
-
-### Technologies
-* Podman (Docker)
-* GnuMake
-* MSGraph
-* Mariadb
 
 Many of my projects are probably going to move to [my site](https://git.solow.xyz). In the future I may set up mirrors on my [gitlab](https://gitlab.com/PoetryInCode), and [gihub](https://github.com/PoetryInCode)
